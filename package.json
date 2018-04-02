@@ -1,0 +1,11 @@
+{
+  "name": "gruntwokflow",
+  "version": "1.0.0",
+  "description": "Project for Grunt Learnig Course",
+  "author": "Marco Jalili",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}
