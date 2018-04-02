@@ -1,2 +1,2 @@
-GruntJS learning course files with exapmles of BowerJS - Number 2
+GruntJS learning course files with exapmles of BowerJS - Course number 2
 
