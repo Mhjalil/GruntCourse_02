@@ -65,11 +65,11 @@ var rclick = function() {
             myElement.style.left = f.offsetX + 90 + 'px';
             myElement.style.top = f.offsetY + -90 + 'px';
           });    
-        } // make sure I dont' have one opened
-      } // check to see that I clicked on IMG only
+        } // make sure I dont' have one opened ----
+      } // check to see that I clicked on IMG only ----
     }, false); // click event
   }
-}(); //anonymous closure
+}(); //anonymous closure ------
 $(function() {
 
 	$('.tagline').append('The most creative minds in Art');
@@ -78,6 +78,6 @@ $(function() {
     var template = $('#speakerstpl').html();
     var html = Mustache.to_html(template, data);
     $('#speakers').html(html);
-  }); //getJSON
+  }); //getJSON ----
   
-}); //function
+}); //function ----
